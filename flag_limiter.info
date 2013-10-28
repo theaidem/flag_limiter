@@ -1,0 +1,5 @@
+name = Flag Limiter
+description = Limits the number of flagged items at any time. Provide Flag 3.x 
+core = 7.x
+dependencies[] = flag
+package = Flags
